@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VitaminDeposuOyunu.SuluMeyve" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAAAAAAAAAAoAAAACgAgAAAAAgAAAAEAAFBAAAA=</HashCode>
+      <FileName>Abstract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.KatiMeyve" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAAAAAAAAAAoAAAACgAgAAAAAgAAAAEAAFBAAAA=</HashCode>
+      <FileName>Abstract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Form1" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAYBAAEAACQgIAEAAgCAAABCQAAAJADoAASAFSkAIIA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Meyve" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Meyveler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Portakal" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAA=</HashCode>
+      <FileName>Meyveler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Mandalina" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAA=</HashCode>
+      <FileName>Meyveler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Greyfurt" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAA=</HashCode>
+      <FileName>Meyveler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Elma" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAA=</HashCode>
+      <FileName>Meyveler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Armut" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAA=</HashCode>
+      <FileName>Meyveler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Cilek" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAA=</HashCode>
+      <FileName>Meyveler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Program" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Properties.Resources" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitaminDeposuOyunu.Properties.Settings" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="VitaminDeposuOyunu.IMeyve" Collapsed="true">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
